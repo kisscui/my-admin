@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c0e93"],{4496:function(n,c,e){"use strict";function o(n,c,e,o,r,t){return"留言管理"}e.r(c);var r={},t=e("6b0d"),u=e.n(t);const d=u()(r,[["render",o]]);c["default"]=d}}]);

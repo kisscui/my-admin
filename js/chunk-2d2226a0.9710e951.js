@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2226a0"],{cf07:function(n,c,e){"use strict";function o(n,c){return"临床实践"}e.r(c);var r=e("6b0d"),t=e.n(r);const u={},d=t()(u,[["render",o]]);c["default"]=d}}]);

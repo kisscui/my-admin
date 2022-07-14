@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c80b6"],{"52cf":function(n,c,e){"use strict";function o(n,c){return"基地管理"}e.r(c);var r=e("6b0d"),t=e.n(r);const u={},d=t()(u,[["render",o]]);c["default"]=d}}]);
