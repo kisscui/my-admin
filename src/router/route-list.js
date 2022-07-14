@@ -1,0 +1,80 @@
+export const routeList = [
+  {
+    path: "/home",
+    title: "指导委员会",
+    name: "Home",
+    icon: "UserFilled",
+  },
+  {
+    path: "/usermanage",
+    title: "用户管理",
+    name: "UserManage",
+    icon: "User",
+  },
+  {
+    path: "/course",
+    title: "课程管理",
+    name: "Course",
+    icon: "Collection",
+  },
+  {
+    path: "/commentlist",
+    title: "留言管理",
+    name: "CommentManag",
+    icon: "ChatDotRound",
+  },
+  {
+    path: "/base",
+    title: "基地管理",
+    name: "Base",
+    icon: "Location",
+  },
+  {
+    path: "/clinical",
+    title: "临床实践",
+    name: "Clinical",
+    icon: "Document",
+  },
+  {
+    path: "/clinicalPractice",
+    title: "实践记录",
+    name: "clinicalPractice",
+    icon: "Calendar",
+  },
+  {
+    path: "/scorelist",
+    title: "成绩列表",
+    name: "ScoreList",
+    icon: "Notebook",
+  },
+  {
+    path: "/advisory",
+    title: "资讯管理",
+    name: "Advisory",
+    icon: "Notification",
+  },
+  {
+    path: "/userStatistics",
+    title: "用户统计",
+    name: "UserStatistics",
+    icon: "Postcard",
+  },
+  {
+    path: "/questionnaire",
+    title: "问卷调查",
+    name: "Questionnaire",
+    icon: "Checked",
+  },
+  {
+    path: "/operatorlogs",
+    title: "操作日志",
+    name: "OperatorLogs",
+    icon: "List",
+  },
+  {
+    path: "/vFromRender",
+    title: "表单渲染",
+    name: "VFromRender",
+    icon: "Tickets",
+  },
+];
